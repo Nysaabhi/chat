@@ -221,13 +221,13 @@
     left: 20px;
     top: 50%;
     transform: translateY(-50%);
-    color: hsl(51, 100%, 59%);
+    color: #ff0c0c;
     font-size: 24px;
     transition: all 0.3s ease;
   }
   
   .search-wrapper:focus-within .search-icon {
-    color: #FDB931;
+    color: #000000;
     transform: translateY(-50%) scale(1.1);
   }
   
@@ -237,7 +237,7 @@
       right: 20px;
       transform: translateY(-50%);
       font-size: 20px;
-      color: #FFD700;
+      color: #ff0c0c;
       cursor: pointer;
       transition: color 0.3s ease;
     }
