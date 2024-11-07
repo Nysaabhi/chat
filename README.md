@@ -198,9 +198,9 @@
           height: 68px;
           padding: 12px 60px;
           font-size: 18px;
-          color: #000000;
-          background: #fef9f9;
-          border: 2px solid #FFD700;
+          color: #ffffff;
+          background: #250f0f;
+          border: 2px solid #f9d300;
            border-radius: 24px;
           transition: all 0.3s ease;
           font-family: 'Poppins', sans-serif;
@@ -212,7 +212,7 @@
         }
         
         .search-bar::placeholder {
-          color: #000000;
+          color: #ffffff;
           font-weight: 400;
         }
         
@@ -227,7 +227,7 @@
         }
         
         .search-wrapper:focus-within .search-icon {
-          color: #FDB931;
+          color: #f9d300;
           transform: translateY(-50%) scale(1.1);
         }
         
@@ -237,7 +237,7 @@
             right: 20px;
             transform: translateY(-50%);
             font-size: 20px;
-            color: #FFD700;
+            color: #f9d300;
             cursor: pointer;
             transition: color 0.3s ease;
           }
@@ -399,7 +399,7 @@
         .separator-line {
           width: 100vw;
           height: 1px;
-          background-color: #fff;
+          background-color: #000000;
           margin: 20px 0;
           position: relative;
           left: 50%;
