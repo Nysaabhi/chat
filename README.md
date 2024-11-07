@@ -112,6 +112,7 @@
         }
       
         .nav-item.active i {
+          color: var(--active-color);
           transform: translateY(-2px);
         }
       
