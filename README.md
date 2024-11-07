@@ -1646,7 +1646,7 @@
 <nav class="bottom-nav">
     <div class="nav-container">
         <div class="nav-item active" data-page="home">
-            <a href="https://nysaabhi.github.io/chatty">
+            <a href="https://nysaabhi.github.io/chat">
                 <i class="fas fa-home"></i>
             </a>
             <span>Home</span>
