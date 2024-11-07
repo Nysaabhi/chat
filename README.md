@@ -96,6 +96,7 @@
         }
       
         .nav-item i {
+          color: #fff;
           font-size: 20px;
           margin-bottom: 4px;
           transition: all 0.3s ease;
@@ -1645,23 +1646,33 @@
 <nav class="bottom-nav">
     <div class="nav-container">
         <div class="nav-item active" data-page="home">
-            <i class="fas fa-home"></i>
+            <a href="https://nysaabhi.github.io/chatty">
+                <i class="fas fa-home"></i>
+            </a>
             <span>Home</span>
         </div>
         <div class="nav-item" data-page="tournament">
-            <i class="fas fa-trophy"></i>
+            <a href="https://nysaabhi.github.io/mymom">
+                <i class="fas fa-trophy"></i>
+            </a>
             <span>Tournament</span>
         </div>
         <div class="nav-item" data-page="gallery">
-            <i class="fas fa-vr-cardboard"></i>
+            <a href="gallery.html">
+                <i class="fas fa-vr-cardboard"></i>
+            </a>
             <span>Gallery</span>
         </div>
         <div class="nav-item" data-page="location">
-            <i class="fas fa-map"></i>
+            <a href="location.html">
+                <i class="fas fa-map"></i>
+            </a>
             <span>Location</span>
         </div>
         <div class="nav-item" data-page="listings">
-            <i class="fas fa-list"></i>
+            <a href="listings.html">
+                <i class="fas fa-list"></i>
+            </a>
             <span>Listings</span>
         </div>
     </div>
